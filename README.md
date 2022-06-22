@@ -30,7 +30,9 @@ Also how to convert Ascii images into pencil sketch.
  3.Taking Ascii image as input and turn into Pencil sktech.
 ### Usage:
 1.Clone the repo.
+
 2.Adding some extra features like import gaussian_filter from scipy.ndimage and imageio.v2 to turn out from ascii to pencil sketch.
+
 3.Use  the data and fonts to choose relevant folder directory.
 [](https://)
 Taking as input and output as
