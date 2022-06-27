@@ -40,7 +40,7 @@ Taking as input and output as
 image = cv2.imread("./data/input_image.jpg")
 output_image=cv2.imwrite('./data/sketch_bg_white.png', returned)
 ```
-Execute the binary:
+
 
 
 
